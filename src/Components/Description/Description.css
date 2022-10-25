@@ -1,6 +1,14 @@
 .describ{
     border: 5px;
-    background-color: coral;
-    color: rgb(8, 70, 27);
+    background-color: rgb(34, 10, 1);
+    color: rgb(252, 144, 1);
+    width: 48.4%;
+    margin-left: 40%;
+    margin-top: 10%;
+    margin-right: 0%;
+    position: relative;
+    top: 12rem;
+    right: 8rem;
+    border-bottom-right-radius: 20px;
     
-}
+};

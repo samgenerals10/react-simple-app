@@ -1,11 +1,10 @@
 import React from 'react'
-
 import sam from './Title.css'
 
-function Title() {
+function Title(props) {
   return (
-    <div>
-        <h1 className='sam'>Sam Generals</h1>
+    <div className='sam1'>
+        <h1 className='sam'>{props.header}</h1>
     </div>
   )
 }

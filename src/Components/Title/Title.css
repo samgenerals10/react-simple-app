@@ -1,3 +1,17 @@
 .sam{
     color: darkorange;
+    background-color: rgb(30, 1, 6);
+    width: 48%;
+    position: relative;
+    left: 24rem;
+    top: 5rem;
+    height: 6%;
+    font-weight: 10%;
+    padding: 2px;
+    border-top-right-radius: 20px;
+   
+};
+
+.sam1{
+    height: 10%;
 }
