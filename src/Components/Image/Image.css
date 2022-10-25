@@ -1,0 +1,12 @@
+
+.mainphoto{
+    border: solid 1px;
+    background-color: black;
+}
+
+.photo{
+    border: solid 10px;
+    border-radius: 50%;
+    width: 50px;
+    
+}
